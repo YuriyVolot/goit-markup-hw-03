@@ -43,7 +43,7 @@ body {
 
 .nav-link:hover,
 .nav-link:focus {
-  color: var var(--accent-color);
+  color: var(--accent-color);
 }
 /*SIGNATURE*/
 .signature {
